@@ -21,7 +21,7 @@
 * Would you wait here for a moment, please?
 
 ## Japanese phrases
-英語では、なるべく丁寧な表現を覚える。
+note: 英語では、なるべく丁寧な表現を覚える。
 
 http://web.ydu.edu.tw/~uchiyama/conv/kaiwa_n8.htm
 
