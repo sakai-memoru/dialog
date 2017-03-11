@@ -1,7 +1,8 @@
 # Speaking with formatted phrases.
 
 ## Request
-[](request.md)
+* [request.md](request.md) situation for request to a person.
+
 * Can you ..?
   - Can you show me how to use this application software?
   - Can you wait a minute?
