@@ -1,4 +1,6 @@
-# Request : ～していただけませんか？
+# Requesting : ～していただけませんか？
+
+* [Honouring-request.md](Honouring-request.md) : speaking/Honouring-request.md
 
 ## English phrases
 * Can you ..?
@@ -16,9 +18,18 @@
     cf) Would you mind opening the window?
 	cf) Would you mind if I opened the window?
 	cf) Would you mind my smoking here?
+- - -
+* Can I ..?
+  - Can I ask you a favour?
+  - Can I have a receipt, please?
 
-### real cases
+* May I ..?
+  - May I ask your name?
+  - May I have your phone number?
+
+### Real cases
 * Would you wait here for a moment, please?
+* Would you mind if I ask you for an example?
 
 ## Japanese phrases
 note: 英語では、なるべく丁寧な表現を覚える。
@@ -34,7 +45,7 @@ http://web.ydu.edu.tw/~uchiyama/conv/kaiwa_n8.htm
   - してください
   - してもらえますか、してもらませんか
   - してくださいますか、してくださいませんか
-  - していただけますか、していただけませんか 
+  - していただけますか、していただけませんか
 
 ### 日本人の依頼表現
 1. 前置き
